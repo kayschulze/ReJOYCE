@@ -1,0 +1,17 @@
+{
+  "name": "re-joyce-academy",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Kim Schulze <kimberlykayschulze@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
