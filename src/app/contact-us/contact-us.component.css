@@ -1,7 +1,23 @@
 .contact {
     background-color: #70bc6b;
     background-size: 100%;
-    padding: 5px;
-    padding-left: 20px;
-    margin: -10px;
+    padding: 30px;
+    height: 300px;
+}
+
+.contactpicture {
+    float: left;
+    margin: 0px 20px 0px 20px;
+    width: 25%;
+}
+
+.picturestyle {
+    border-style: solid;
+    border-width: 2px;
+    border-color: rgba(95, 7, 7, 0.671);
+    width: 100%;
+}
+
+.foot {
+    width: 100%;
 }
